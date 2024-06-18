@@ -14,5 +14,5 @@ Example Output
 
 Use the following `values` array in javascript to calculate the correct output.
 ```javascript
-let values = [{qty: 2}, {value: 5.00}, {qty:6, value: 9.90}, {qty: 1, value: 100}, {qty: 5, value: 120.50}, {qty: 10, value: 115}, {qty: 8, value: 8.45}, {qty: 4, value: 65}];
+let values = [{qty: 2, value: 5.00}, {qty:6, value: 9.90}, {qty: 1, value: 100}, {qty: 5, value: 120.50}, {qty: 10, value: 115}, {qty: 8, value: 8.45}, {qty: 4, value: 65}];
 ```
